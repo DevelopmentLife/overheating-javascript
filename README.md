@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-* {background: red; font: 28pt arial; text-align: right;}
+*{background: red; font: 28pt arial; text-align: right;}
 ol {text-decoration: none; text-align: center; padding: 4px;}
 li {text-decoration: none; font-weight: bold; padding: 5px 3px 3px 5px;}
 .my{font-weight:bold;}
